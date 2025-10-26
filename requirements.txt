@@ -1,8 +1,8 @@
 Flask==2.3.2
 gunicorn==21.2.0
 pandas>=2.2.3
+numpy>=2.1.1
 
-numpy==1.26.0
 requests==2.31.0
 
 matplotlib==3.8.1   # If plotting
